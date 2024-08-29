@@ -1,0 +1,7 @@
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe.config
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.exe
+C:\Users\2880972323032\Desktop\Code\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.pdb
