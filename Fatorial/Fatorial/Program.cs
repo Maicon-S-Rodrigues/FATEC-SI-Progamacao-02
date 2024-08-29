@@ -16,17 +16,11 @@ namespace Fatorial
             Console.ReadKey();
         }
 
-        private static double CalcularFatorial(double numero)
-        {
-            double fatorial = numero;
-
-            for (double i = numero - 1; i >= 1; i--)
-            {
-                fatorial *= i;
-            }
-
-            return fatorial;
-        }
+    private static double CalcularFatorial(
+        double numero
+    ) =>
+        numero == 0 ? 1 
+        : numero * CalcularFatorial(numero - 1);
 
         private static double LerNumero()
         {
