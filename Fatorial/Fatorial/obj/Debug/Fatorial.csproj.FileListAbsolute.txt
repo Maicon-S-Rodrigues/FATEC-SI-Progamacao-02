@@ -1,0 +1,7 @@
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\2880972323032\Desktop\Code\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
