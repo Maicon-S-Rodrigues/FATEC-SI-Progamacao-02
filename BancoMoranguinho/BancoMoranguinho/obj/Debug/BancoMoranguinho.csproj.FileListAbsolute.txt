@@ -1,0 +1,8 @@
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\bin\Debug\BancoMoranguinho.exe.config
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\bin\Debug\BancoMoranguinho.exe
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\bin\Debug\BancoMoranguinho.pdb
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\obj\Debug\BancoMoranguinho.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\obj\Debug\BancoMoranguinho.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\obj\Debug\BancoMoranguinho.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\obj\Debug\BancoMoranguinho.exe
+C:\Users\2880972323032\Desktop\Code\BancoMoranguinho\BancoMoranguinho\obj\Debug\BancoMoranguinho.pdb
