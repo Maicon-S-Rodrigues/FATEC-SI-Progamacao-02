@@ -1,0 +1,8 @@
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\bin\Debug\ExAssociacao.exe.config
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\bin\Debug\ExAssociacao.exe
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\bin\Debug\ExAssociacao.pdb
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\obj\Debug\ExAssociacao.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\obj\Debug\ExAssociacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\obj\Debug\ExAssociacao.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\obj\Debug\ExAssociacao.exe
+C:\Users\2880972323032\Desktop\Code\ExAssociacao\ExAssociacao\obj\Debug\ExAssociacao.pdb
