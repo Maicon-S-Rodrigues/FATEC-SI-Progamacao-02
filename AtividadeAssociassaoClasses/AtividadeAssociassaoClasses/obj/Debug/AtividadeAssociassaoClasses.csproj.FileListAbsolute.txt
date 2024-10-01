@@ -1,0 +1,7 @@
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\bin\Debug\AtividadeAssociassaoClasses.exe.config
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\bin\Debug\AtividadeAssociassaoClasses.exe
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\bin\Debug\AtividadeAssociassaoClasses.pdb
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\obj\Debug\AtividadeAssociassaoClasses.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\obj\Debug\AtividadeAssociassaoClasses.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\obj\Debug\AtividadeAssociassaoClasses.exe
+C:\Users\2880972323032\Desktop\Estudo\AtividadeAssociassaoClasses\AtividadeAssociassaoClasses\obj\Debug\AtividadeAssociassaoClasses.pdb
