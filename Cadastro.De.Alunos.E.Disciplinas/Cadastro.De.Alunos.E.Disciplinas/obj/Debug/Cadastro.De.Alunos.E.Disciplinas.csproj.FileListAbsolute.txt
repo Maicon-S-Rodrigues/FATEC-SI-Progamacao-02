@@ -1,0 +1,8 @@
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\bin\Debug\Cadastro.De.Alunos.E.Disciplinas.exe.config
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\bin\Debug\Cadastro.De.Alunos.E.Disciplinas.exe
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\bin\Debug\Cadastro.De.Alunos.E.Disciplinas.pdb
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\obj\Debug\Cadastro.De.Alunos.E.Disciplinas.csproj.AssemblyReference.cache
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\obj\Debug\Cadastro.De.Alunos.E.Disciplinas.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\obj\Debug\Cadastro.De.Alunos.E.Disciplinas.csproj.CoreCompileInputs.cache
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\obj\Debug\Cadastro.De.Alunos.E.Disciplinas.exe
+C:\Users\2880972323032\Desktop\Code\Cadastro.De.Alunos.E.Disciplinas\Cadastro.De.Alunos.E.Disciplinas\obj\Debug\Cadastro.De.Alunos.E.Disciplinas.pdb
