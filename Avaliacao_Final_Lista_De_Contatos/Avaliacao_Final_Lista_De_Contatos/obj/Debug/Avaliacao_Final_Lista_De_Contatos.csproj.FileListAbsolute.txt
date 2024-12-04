@@ -1,0 +1,8 @@
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\bin\Debug\Avaliacao_Final_Lista_De_Contatos.exe.config
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\bin\Debug\Avaliacao_Final_Lista_De_Contatos.exe
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\bin\Debug\Avaliacao_Final_Lista_De_Contatos.pdb
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\obj\Debug\Avaliacao_Final_Lista_De_Contatos.csproj.AssemblyReference.cache
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\obj\Debug\Avaliacao_Final_Lista_De_Contatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\obj\Debug\Avaliacao_Final_Lista_De_Contatos.csproj.CoreCompileInputs.cache
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\obj\Debug\Avaliacao_Final_Lista_De_Contatos.exe
+C:\Users\maico\OneDrive\Área de Trabalho\DEV\Avaliacao_Final_Lista_De_Contatos\Avaliacao_Final_Lista_De_Contatos\obj\Debug\Avaliacao_Final_Lista_De_Contatos.pdb
